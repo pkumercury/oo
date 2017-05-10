@@ -13,8 +13,10 @@
 * [***Homework 4***](hw4)
   * [软件需求说明书](hw4/软件需求说明书.md)
   * [用况图](hw4/use_case.jpg)
-* [*Homework 5*](hw5)
+* [***Homework 5***](hw5)
   * [面向对象分析文档](hw5/作业5-OOA分析模型.md)
+* [***Homework 6***](hw6)
+  * [面向对象设计文档](hw6/面向对象设计文档.md)
 
 ## 读书报告
 
